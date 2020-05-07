@@ -2,7 +2,7 @@
   font-family: "Robot World Regular";
   font-style: normal;
   font-weight: normal;
-  src: local("Robot World Regular"), url("/Robot World.woff") format("woff");
+  src: local("Robot World Regular"), url("Robot World.woff") format("woff");
 }
 
 h1 {

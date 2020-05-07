@@ -5,7 +5,6 @@ import * as serviceWorker from "./serviceWorker";
 import "tachyons";
 //import Card from "./Card";
 import App from "./containers/App";
-import { robots } from "./robots";
 
 ReactDOM.render(
   <React.StrictMode>
