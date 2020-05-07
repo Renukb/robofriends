@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Robot World Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Robot World Regular"), url("/Robot World.woff") format("woff");
+}
+
+h1 {
+  font-family: "Robot World Regular";
+  font-weight: 200;
+  color: rgb(155, 170, 180);
+}
